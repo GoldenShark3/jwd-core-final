@@ -7,3 +7,4 @@ public enum MissionResult {
     IN_PROGRESS,
     COMPLETED
 }
+

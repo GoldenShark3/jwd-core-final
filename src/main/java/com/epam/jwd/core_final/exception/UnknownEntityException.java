@@ -19,8 +19,14 @@ public class UnknownEntityException extends RuntimeException {
 
     @Override
     public String getMessage() {
-        // todo
         // you should use entityName, args (if necessary)
-        return null;
+        StringBuilder exceptionMessage = new StringBuilder("This entity: \n{" + entityName +", with args: {");
+        if(args != null) {
+            for(Object arg: args){
+                exceptionMessage.append(arg.toString()).append(", ");
+            }
+            exceptionMessage.append("} - is unknown");
+        }
+        return exceptionMessage.toString();
     }
 }

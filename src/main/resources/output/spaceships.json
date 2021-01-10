@@ -1,0 +1,331 @@
+[ {
+  "id" : 0,
+  "name" : "Challenger",
+  "crew" : {
+    "PILOT" : 3,
+    "MISSION_SPECIALIST" : 5,
+    "COMMANDER" : 3,
+    "FLIGHT_ENGINEER" : 9
+  },
+  "flightDistance" : 201117,
+  "readyForNextMissions" : false
+}, {
+  "id" : 1,
+  "name" : "Intelligence",
+  "crew" : {
+    "PILOT" : 4,
+    "MISSION_SPECIALIST" : 7,
+    "COMMANDER" : 1,
+    "FLIGHT_ENGINEER" : 8
+  },
+  "flightDistance" : 758717,
+  "readyForNextMissions" : false
+}, {
+  "id" : 2,
+  "name" : "Philadelphia",
+  "crew" : {
+    "PILOT" : 4,
+    "MISSION_SPECIALIST" : 4,
+    "COMMANDER" : 2,
+    "FLIGHT_ENGINEER" : 8
+  },
+  "flightDistance" : 4870,
+  "readyForNextMissions" : true
+}, {
+  "id" : 3,
+  "name" : "Sparta",
+  "crew" : {
+    "PILOT" : 2,
+    "MISSION_SPECIALIST" : 7,
+    "COMMANDER" : 1,
+    "FLIGHT_ENGINEER" : 7
+  },
+  "flightDistance" : 754471,
+  "readyForNextMissions" : true
+}, {
+  "id" : 4,
+  "name" : "Guardian",
+  "crew" : {
+    "PILOT" : 2,
+    "MISSION_SPECIALIST" : 8,
+    "COMMANDER" : 1,
+    "FLIGHT_ENGINEER" : 9
+  },
+  "flightDistance" : 910740,
+  "readyForNextMissions" : true
+}, {
+  "id" : 5,
+  "name" : "CS Adder",
+  "crew" : {
+    "PILOT" : 2,
+    "MISSION_SPECIALIST" : 9,
+    "COMMANDER" : 2,
+    "FLIGHT_ENGINEER" : 7
+  },
+  "flightDistance" : 472285,
+  "readyForNextMissions" : true
+}, {
+  "id" : 6,
+  "name" : "LWSS Ural",
+  "crew" : {
+    "PILOT" : 4,
+    "MISSION_SPECIALIST" : 5,
+    "COMMANDER" : 1,
+    "FLIGHT_ENGINEER" : 7
+  },
+  "flightDistance" : 107011,
+  "readyForNextMissions" : true
+}, {
+  "id" : 7,
+  "name" : "SS Escorial",
+  "crew" : {
+    "PILOT" : 3,
+    "MISSION_SPECIALIST" : 4,
+    "COMMANDER" : 2,
+    "FLIGHT_ENGINEER" : 8
+  },
+  "flightDistance" : 287032,
+  "readyForNextMissions" : true
+}, {
+  "id" : 8,
+  "name" : "HMS Royal",
+  "crew" : {
+    "PILOT" : 2,
+    "MISSION_SPECIALIST" : 6,
+    "COMMANDER" : 2,
+    "FLIGHT_ENGINEER" : 9
+  },
+  "flightDistance" : 449967,
+  "readyForNextMissions" : true
+}, {
+  "id" : 9,
+  "name" : "HMS Nightfal",
+  "crew" : {
+    "PILOT" : 3,
+    "MISSION_SPECIALIST" : 4,
+    "COMMANDER" : 2,
+    "FLIGHT_ENGINEER" : 6
+  },
+  "flightDistance" : 826146,
+  "readyForNextMissions" : true
+}, {
+  "id" : 10,
+  "name" : "Wolf",
+  "crew" : {
+    "PILOT" : 4,
+    "MISSION_SPECIALIST" : 9,
+    "COMMANDER" : 2,
+    "FLIGHT_ENGINEER" : 9
+  },
+  "flightDistance" : 739151,
+  "readyForNextMissions" : true
+}, {
+  "id" : 11,
+  "name" : "Providence",
+  "crew" : {
+    "PILOT" : 4,
+    "MISSION_SPECIALIST" : 5,
+    "COMMANDER" : 3,
+    "FLIGHT_ENGINEER" : 5
+  },
+  "flightDistance" : 160265,
+  "readyForNextMissions" : true
+}, {
+  "id" : 12,
+  "name" : "Spider",
+  "crew" : {
+    "PILOT" : 2,
+    "MISSION_SPECIALIST" : 8,
+    "COMMANDER" : 2,
+    "FLIGHT_ENGINEER" : 5
+  },
+  "flightDistance" : 568205,
+  "readyForNextMissions" : true
+}, {
+  "id" : 13,
+  "name" : "Invincible",
+  "crew" : {
+    "PILOT" : 4,
+    "MISSION_SPECIALIST" : 7,
+    "COMMANDER" : 1,
+    "FLIGHT_ENGINEER" : 5
+  },
+  "flightDistance" : 375415,
+  "readyForNextMissions" : true
+}, {
+  "id" : 14,
+  "name" : "Wolfer",
+  "crew" : {
+    "PILOT" : 2,
+    "MISSION_SPECIALIST" : 5,
+    "COMMANDER" : 3,
+    "FLIGHT_ENGINEER" : 6
+  },
+  "flightDistance" : 923804,
+  "readyForNextMissions" : true
+}, {
+  "id" : 15,
+  "name" : "STS Angel",
+  "crew" : {
+    "PILOT" : 3,
+    "MISSION_SPECIALIST" : 8,
+    "COMMANDER" : 1,
+    "FLIGHT_ENGINEER" : 5
+  },
+  "flightDistance" : 749611,
+  "readyForNextMissions" : true
+}, {
+  "id" : 16,
+  "name" : "HMS Twilight",
+  "crew" : {
+    "PILOT" : 4,
+    "MISSION_SPECIALIST" : 6,
+    "COMMANDER" : 3,
+    "FLIGHT_ENGINEER" : 5
+  },
+  "flightDistance" : 204263,
+  "readyForNextMissions" : true
+}, {
+  "id" : 17,
+  "name" : "ISS Diplomat",
+  "crew" : {
+    "PILOT" : 3,
+    "MISSION_SPECIALIST" : 5,
+    "COMMANDER" : 3,
+    "FLIGHT_ENGINEER" : 5
+  },
+  "flightDistance" : 793162,
+  "readyForNextMissions" : true
+}, {
+  "id" : 18,
+  "name" : "CS Revolution",
+  "crew" : {
+    "PILOT" : 2,
+    "MISSION_SPECIALIST" : 8,
+    "COMMANDER" : 2,
+    "FLIGHT_ENGINEER" : 6
+  },
+  "flightDistance" : 945886,
+  "readyForNextMissions" : true
+}, {
+  "id" : 19,
+  "name" : "HWSS Mace",
+  "crew" : {
+    "PILOT" : 4,
+    "MISSION_SPECIALIST" : 8,
+    "COMMANDER" : 1,
+    "FLIGHT_ENGINEER" : 9
+  },
+  "flightDistance" : 786986,
+  "readyForNextMissions" : true
+}, {
+  "id" : 20,
+  "name" : "Burn",
+  "crew" : {
+    "PILOT" : 3,
+    "MISSION_SPECIALIST" : 10,
+    "COMMANDER" : 2,
+    "FLIGHT_ENGINEER" : 9
+  },
+  "flightDistance" : 452842,
+  "readyForNextMissions" : true
+}, {
+  "id" : 21,
+  "name" : "Fade",
+  "crew" : {
+    "PILOT" : 2,
+    "MISSION_SPECIALIST" : 8,
+    "COMMANDER" : 3,
+    "FLIGHT_ENGINEER" : 8
+  },
+  "flightDistance" : 776539,
+  "readyForNextMissions" : true
+}, {
+  "id" : 22,
+  "name" : "Gibraltar",
+  "crew" : {
+    "PILOT" : 3,
+    "MISSION_SPECIALIST" : 10,
+    "COMMANDER" : 3,
+    "FLIGHT_ENGINEER" : 8
+  },
+  "flightDistance" : 613090,
+  "readyForNextMissions" : true
+}, {
+  "id" : 23,
+  "name" : "Assassin",
+  "crew" : {
+    "PILOT" : 4,
+    "MISSION_SPECIALIST" : 4,
+    "COMMANDER" : 3,
+    "FLIGHT_ENGINEER" : 8
+  },
+  "flightDistance" : 650084,
+  "readyForNextMissions" : true
+}, {
+  "id" : 24,
+  "name" : "Lifebringer",
+  "crew" : {
+    "PILOT" : 2,
+    "MISSION_SPECIALIST" : 6,
+    "COMMANDER" : 3,
+    "FLIGHT_ENGINEER" : 9
+  },
+  "flightDistance" : 903775,
+  "readyForNextMissions" : true
+}, {
+  "id" : 25,
+  "name" : "HMS The Titan",
+  "crew" : {
+    "PILOT" : 2,
+    "MISSION_SPECIALIST" : 7,
+    "COMMANDER" : 1,
+    "FLIGHT_ENGINEER" : 8
+  },
+  "flightDistance" : 347940,
+  "readyForNextMissions" : true
+}, {
+  "id" : 26,
+  "name" : "CS Pathfinder",
+  "crew" : {
+    "PILOT" : 2,
+    "MISSION_SPECIALIST" : 7,
+    "COMMANDER" : 2,
+    "FLIGHT_ENGINEER" : 9
+  },
+  "flightDistance" : 475299,
+  "readyForNextMissions" : true
+}, {
+  "id" : 27,
+  "name" : "HWSS Orion",
+  "crew" : {
+    "PILOT" : 2,
+    "MISSION_SPECIALIST" : 7,
+    "COMMANDER" : 2,
+    "FLIGHT_ENGINEER" : 7
+  },
+  "flightDistance" : 162029,
+  "readyForNextMissions" : true
+}, {
+  "id" : 28,
+  "name" : "SS Midway",
+  "crew" : {
+    "PILOT" : 4,
+    "MISSION_SPECIALIST" : 6,
+    "COMMANDER" : 2,
+    "FLIGHT_ENGINEER" : 5
+  },
+  "flightDistance" : 940875,
+  "readyForNextMissions" : true
+}, {
+  "id" : 29,
+  "name" : "SC Dakota",
+  "crew" : {
+    "PILOT" : 2,
+    "MISSION_SPECIALIST" : 4,
+    "COMMANDER" : 1,
+    "FLIGHT_ENGINEER" : 5
+  },
+  "flightDistance" : 318118,
+  "readyForNextMissions" : true
+} ]

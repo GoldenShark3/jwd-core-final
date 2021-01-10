@@ -1,0 +1,8 @@
+2021-01-10 21:49:55,397 INFO [com.epam.jwd.core_final.util.PropertyReaderUtil] Loading properties file
+2021-01-10 21:50:02,511 INFO [com.epam.jwd.core_final.context.impl.menu.json.WriteInfoToJSONMenu] Output info about crew members to crewMembers.json
+2021-01-10 21:50:03,396 INFO [com.epam.jwd.core_final.context.impl.menu.json.WriteInfoToJSONMenu] Output info about spaceships to spaceships.json
+2021-01-10 21:50:04,418 INFO [com.epam.jwd.core_final.context.impl.menu.json.WriteInfoToJSONMenu] Output info about missions to output
+2021-01-10 21:50:19,381 INFO [com.epam.jwd.core_final.context.ApplicationMenu] Application stop by user
+2021-01-10 21:51:06,361 INFO [com.epam.jwd.core_final.util.PropertyReaderUtil] Loading properties file
+2021-01-10 21:51:11,828 INFO [com.epam.jwd.core_final.context.impl.menu.json.WriteInfoToJSONMenu] Output info about crew members to crewMembers.json
+2021-01-10 21:51:12,757 INFO [com.epam.jwd.core_final.context.impl.menu.json.WriteInfoToJSONMenu] Output info about spaceships to spaceships.json
