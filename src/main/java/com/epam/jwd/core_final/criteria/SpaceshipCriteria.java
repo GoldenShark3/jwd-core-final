@@ -12,7 +12,7 @@ public class SpaceshipCriteria extends Criteria<Spaceship> {
     private final Long flightDistance;
     private final Boolean isReadyForNextMission;
 
-    protected SpaceshipCriteria(Builder<SpaceshipBuilder> builder, Map<Role, Short> crew,
+    private SpaceshipCriteria(Builder<SpaceshipBuilder> builder, Map<Role, Short> crew,
                                 Long flightDistance, boolean isReadyForNextMission) {
         super(builder);
         this.crew = crew;
